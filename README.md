@@ -1,6 +1,7 @@
-## Dr Matthew Bailey 
-### Clinical Trials Information Systems Manager - Peninsula Clinical Trials Unit, University of Plymouth
+# Matt does talks
 
-Presentations and posters I give will be stored here. 
+Hey, I'm not much of a public speaker and it's something I've struggled with in the past - and still do. 
+
+The presentations and posters that I do-do will be stored here. 
 
 
